@@ -1,6 +1,6 @@
 # Hi there, I'm Vinod Nallavade 👋
 
-I'm an Azure consultant passionate about cloud solution design,development and staying updated with the latest tech stack.
+I'm an Azure consultant and FinOps practitioner passionate about cloud solution design,development and staying updated with the latest tech stack.
 
 ## 🔭 What I Do
 
