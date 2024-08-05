@@ -18,5 +18,6 @@ I'm an Azure consultant and FinOps practitioner passionate about cloud solution 
 
 - **LinkedIn**: [Vinod Kumar Nallavade](https://www.linkedin.com/in/vinod-kumar-nallavade/)
 - **YouTube**: [IaminAzure](https://www.youtube.com/@iaminazure)
+- **Email**: Vinod.Nallavade@outlook.com
 
 I'm open for collaborations and happy to help with new projects. Thanks for stopping by! 🚀
