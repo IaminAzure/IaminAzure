@@ -1,6 +1,6 @@
 # Hi there, I'm Vinod Nallavade 👋
 
-I'm an Azure developer passionate about cloud development and staying updated with the latest tech stack. I create projects to help others learn and grow.
+I'm an Azure consultant passionate about cloud solution design,development and staying updated with the latest tech stack.
 
 ## 🔭 What I Do
 
@@ -9,9 +9,10 @@ I'm an Azure developer passionate about cloud development and staying updated wi
 
 ## 🌱 Current Focus
 
-- Advanced Azure services
+- Advanced Azure services and AI Services
 - Serverless computing
-- DevOps practices
+- DevOps and best security practices
+- Design and implementing scalable applications
 
 ## 📫 Let's Connect
 
