@@ -17,6 +17,6 @@ I'm an Azure consultant passionate about cloud solution design,development and s
 ## 📫 Let's Connect
 
 - **LinkedIn**: [Vinod Kumar Nallavade](https://www.linkedin.com/in/vinod-kumar-nallavade/)
-- **YouTube**: [I am in Azure](https://www.youtube.com/@iaminazure)
+- **YouTube**: [IaminAzure](https://www.youtube.com/@iaminazure)
 
 I'm open for collaborations and happy to help with new projects. Thanks for stopping by! 🚀
